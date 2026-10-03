@@ -1,0 +1,47 @@
+{
+  "item": {
+    "id": "canopus_corona",
+    "restype": "canopus",
+    "name": "Corona模块",
+    "description": "Corona是一个替换手表lvgl资源的模块，一切你能看到的图片与字体均可替换\n\n## 支持情况\n\n目前支持的设备/固件版本如下：\n|设备型号|支持的固件版本|备注|\n|-|-|-|\n|小米手环10 Pro (中国大陆版)|`3.101.036`、`3.101.043`||\n|小米手环11 系列 (不含 Pro) (中国大陆版)|`4.100.139`、`4.100.155`||\n\n使用教程请在abox.run查看",
+    "preview": [
+      "media/Frame 427321352.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/Frame 427321352.png",
+    "author": [
+      {
+        "name": "lst",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/corona-10p-043-xmb10p.bin",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/corona-11-139+155-xmb11.bin",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/corona-11-139+155-xmb11nfc.bin",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "bundledResources": {
+      "recommend": [
+        {
+          "type": "resource",
+          "id": "canopus_manager"
+        }
+      ]
+    }
+  }
+}
