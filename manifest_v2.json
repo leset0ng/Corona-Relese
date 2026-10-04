@@ -25,18 +25,18 @@
     },
     "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/corona-11-139+155-xmb11.bin",
+      "file_name": "downloads/corona-11-155+139.bin",
       "versionCode": 1
     },
     "xmb11nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/corona-11-139+155-xmb11nfc.bin",
+      "file_name": "downloads/corona-11-155+139.bin",
       "versionCode": 1
     }
   },
   "ext": {
     "bundledResources": {
-      "recommend": [
+      "required": [
         {
           "type": "resource",
           "id": "canopus_manager"
