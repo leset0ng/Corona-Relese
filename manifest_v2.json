@@ -3,7 +3,7 @@
     "id": "corona",
     "restype": "canopus",
     "name": "Corona模块",
-    "description": "Corona是一个替换手表lvgl资源的模块，一切你能看到的图片与字体均可替换\n\n## 支持情况\n\n目前支持的设备/固件版本如下：\n|设备型号|支持的固件版本|备注|\n|-|-|-|\n|小米手环10 Pro (中国大陆版)|`3.101.043`||\n|小米手环11 系列 (不含 Pro) (中国大陆版)|`4.100.139`、`4.100.155`||\n\n使用教程请在abox.run查看",
+    "description": "Corona是一个替换手表lvgl资源的模块，一切你能看到的图片与字体均可替换\n\n## 支持情况\n\n目前支持的设备/固件版本如下：\n|设备型号|支持的固件版本|备注|\n|-|-|-|\n|小米手环10 Pro (中国大陆版)|`3.101.043`||\n|小米手环11 系列 (不含 Pro) (中国大陆版)|`4.100.155`、`4.100.179`||\n\n使用教程请在abox.run查看",
     "preview": [
       "media/Frame 29.png",
       "media/Frame 427321352.png"
@@ -20,10 +20,14 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "0.3.0",
-      "file_name": "downloads/canopus_corona-0.3.0-xiaomi-band-10-pro.canopus",
-      "versionCode": 3,
+      "version": "0.3.1",
+      "file_name": "downloads/canopus_corona-0.3.1-xiaomi-band-10-pro.canopus",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "0.3.1",
+          "content": "修复未安装主题包时资源管理和混搭微调页面空白\n修复原生页面切换及返回导航异常\n降低管理页面栈占用\n需配合新版Canopus管理器使用"
+        },
         {
           "version": "0.3.0",
           "content": "适配新canopus\n添加背景替换功能\n添加背景模糊\n添加日历自定义"
@@ -37,10 +41,14 @@
       }
     },
     "xmb11": {
-      "version": "0.3.0",
-      "file_name": "downloads/canopus_corona-0.3.0-xiaomi-band-11.canopus",
-      "versionCode": 3,
+      "version": "0.3.1",
+      "file_name": "downloads/canopus_corona-0.3.1-xiaomi-band-11.canopus",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "0.3.1",
+          "content": "修复未安装主题包时资源管理和混搭微调页面空白\n修复原生页面切换及返回导航异常\n降低管理页面栈占用\n需配合新版Canopus管理器使用"
+        },
         {
           "version": "0.3.0",
           "content": "适配新canopus\n添加背景替换功能\n添加背景模糊\n添加日历自定义"
@@ -55,10 +63,14 @@
       }
     },
     "xmb11nfc": {
-      "version": "0.3.0",
-      "file_name": "downloads/canopus_corona-0.3.0-xiaomi-band-11.canopus",
-      "versionCode": 3,
+      "version": "0.3.1",
+      "file_name": "downloads/canopus_corona-0.3.1-xiaomi-band-11.canopus",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "0.3.1",
+          "content": "修复未安装主题包时资源管理和混搭微调页面空白\n修复原生页面切换及返回导航异常\n降低管理页面栈占用\n需配合新版Canopus管理器使用"
+        },
         {
           "version": "0.3.0",
           "content": "适配新canopus\n添加背景替换功能\n添加背景模糊\n添加日历自定义"
