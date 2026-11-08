@@ -20,10 +20,14 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "0.3.1",
-      "file_name": "downloads/canopus_corona-0.3.1-xiaomi-band-10-pro.canopus",
-      "versionCode": 4,
+      "version": "0.3.2",
+      "file_name": "downloads/canopus_corona-0.3.2-xiaomi-band-10-pro.canopus",
+      "versionCode": 5,
       "updatelogs": [
+        {
+          "version": "0.3.2",
+          "content": "主题传输时边接收边解压，大主题包安装速度大幅提升\n修复大主题包校验安装过慢导致传输超时\n修复背景模糊后白色偏绿\n修复传输横幅出现时资源列表滚动位置丢失\n移除日历样式预览图"
+        },
         {
           "version": "0.3.1",
           "content": "修复未安装主题包时资源管理和混搭微调页面空白\n修复原生页面切换及返回导航异常\n降低管理页面栈占用\n需配合新版Canopus管理器使用"
@@ -41,10 +45,14 @@
       }
     },
     "xmb11": {
-      "version": "0.3.1",
-      "file_name": "downloads/canopus_corona-0.3.1-xiaomi-band-11.canopus",
-      "versionCode": 4,
+      "version": "0.3.2",
+      "file_name": "downloads/canopus_corona-0.3.2-xiaomi-band-11.canopus",
+      "versionCode": 5,
       "updatelogs": [
+        {
+          "version": "0.3.2",
+          "content": "主题传输时边接收边解压，大主题包安装速度大幅提升\n修复大主题包校验安装过慢导致传输超时\n修复背景模糊后白色偏绿\n修复传输横幅出现时资源列表滚动位置丢失\n移除日历样式预览图"
+        },
         {
           "version": "0.3.1",
           "content": "修复未安装主题包时资源管理和混搭微调页面空白\n修复原生页面切换及返回导航异常\n降低管理页面栈占用\n需配合新版Canopus管理器使用"
@@ -63,10 +71,14 @@
       }
     },
     "xmb11nfc": {
-      "version": "0.3.1",
-      "file_name": "downloads/canopus_corona-0.3.1-xiaomi-band-11.canopus",
-      "versionCode": 4,
+      "version": "0.3.2",
+      "file_name": "downloads/canopus_corona-0.3.2-xiaomi-band-11.canopus",
+      "versionCode": 5,
       "updatelogs": [
+        {
+          "version": "0.3.2",
+          "content": "主题传输时边接收边解压，大主题包安装速度大幅提升\n修复大主题包校验安装过慢导致传输超时\n修复背景模糊后白色偏绿\n修复传输横幅出现时资源列表滚动位置丢失\n移除日历样式预览图"
+        },
         {
           "version": "0.3.1",
           "content": "修复未安装主题包时资源管理和混搭微调页面空白\n修复原生页面切换及返回导航异常\n降低管理页面栈占用\n需配合新版Canopus管理器使用"
